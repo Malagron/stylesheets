@@ -586,7 +586,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   padding: 8px 8px 8px 12px;
 }
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag), #app-mount .chat-3bRxxu .hasMore-3e72_v button, #app-mount .chat-3bRxxu .mention, #app-mount .chat-3bRxxu .wrapper-3WhCwL {
-  background: transparent;
+  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
   color: rgba(114, 137, 218, 1);
   border: none !important;
   font-weight: 600 !important;
