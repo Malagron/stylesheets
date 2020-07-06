@@ -47,7 +47,7 @@
   --background-modifier-active: rgba(255, 255, 255, 0.07);
   --background-modifier-selected: rgba(255, 255, 255, 0.1);
   --background-modifier-accent: rgba(255, 255, 255, 0.1);
-  --background-mentioned: rgba(114, 137, 218, 1);
+  --background-mentioned: rgba(0, 0, 0, 1);
   --background-mentioned-hover: rgba(250, 166, 26, 0.08);
   --background-message-hover: rgba(4, 4, 5, 0.07);
   --elevation-stroke: 0 0 0 1px rgba(4, 4, 5, 0.15);
