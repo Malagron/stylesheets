@@ -557,9 +557,7 @@
 #app-mount .chat-3bRxxu {
   background: rgba(0, 0, 0, var(--middle-brightness));
   color: #3CF;
-  border: none !important;
-  font-weight: 600 !important;
-}
+  }
 #app-mount .messages-3amgkR {
   background-color: transparent;
   text-shadow: 0 2px 5px rgba(0, 0, 0, var(--text-shadow));
